@@ -1,0 +1,19 @@
+{
+  "name": "react-ui-kit-style",
+  "version": "1.0.0",
+  "description": "React UI Kit Style",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helabenkhalfallah/react-ui-kit-style.git"
+  },
+  "author": "Hela Ben Khalfallah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helabenkhalfallah/react-ui-kit-style/issues"
+  },
+  "homepage": "https://github.com/helabenkhalfallah/react-ui-kit-style#readme"
+}
